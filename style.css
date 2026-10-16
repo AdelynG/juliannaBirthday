@@ -1,0 +1,26 @@
+/* Add styling here */
+body {
+  font-family: system-ui, sans-serif;
+  padding: 24px;
+  background: #F7F5F0;
+  width: 100%;
+}
+.images {
+  display: flex;
+  flex: grid;
+  margin-top: 15px;
+}
+.two {
+  display: flex;
+  padding: 20px;
+}
+.padding {
+  margin-top: 20px;
+  margin-left: 220px;
+}
+.love {
+  margin-left: 30px;
+}
+.space {
+  padding-left: 20px;
+}

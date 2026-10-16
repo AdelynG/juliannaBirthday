@@ -4,6 +4,8 @@ body {
   padding: 24px;
   background: #F7F5F0;
   width: 100%;
+  max-width: 1200px;
+  padding: 0 15px;
 }
 .images {
   display: flex;

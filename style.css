@@ -6,6 +6,7 @@ body {
   width: 100%;
 }
 .wrapper {
+  overflox-x: hidden;
   max-width: 960px;
   padding: 0 15px;
 }

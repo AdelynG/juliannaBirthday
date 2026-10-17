@@ -7,18 +7,14 @@ body {
   max-width: 1200px;
   padding: 0 15px;
 }
-.images {
-  display: flex;
-  flex: grid;
-  margin-top: 15px;
-}
+
 .two {
   display: flex;
-  padding: 20px;
+  padding: 10px;
 }
 .padding {
   margin-top: 20px;
-  margin-left: 220px;
+  margin-left: 50px;
 }
 .love {
   margin-left: 30px;

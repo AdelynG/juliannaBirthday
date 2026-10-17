@@ -15,7 +15,17 @@ body {
   max-height: auto;
 }
 
+.love {
+  max-width: 75%;
+  max-height: auto;
+}
+
 .two {
   display: flex;
   padding: 10px;
+}
+
+.cute {
+  max-width: 25%;
+  max-height: auto;
 }

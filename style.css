@@ -4,21 +4,18 @@ body {
   padding: 24px;
   background: #F7F5F0;
   width: 100%;
-  max-width: 1200px;
+}
+.wrapper {
+  max-width: 960px;
   padding: 0 15px;
+}
+
+.images {
+  max-width: 100%;
+  max-height: auto;
 }
 
 .two {
   display: flex;
   padding: 10px;
-}
-.padding {
-  margin-top: 20px;
-  margin-left: 50px;
-}
-.love {
-  margin-left: 30px;
-}
-.space {
-  padding-left: 20px;
 }

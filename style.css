@@ -20,6 +20,9 @@ body {
 
 .two {
   display: flex;
+}
+
+.space {
   padding: 20px;
 }
 

@@ -16,7 +16,7 @@ body {
 }
 
 .love {
-  max-width: 90%;
+  max-width: 700px;
   max-height: auto;
 }
 
@@ -26,6 +26,6 @@ body {
 }
 
 .cute {
-  max-width: 35%;
+  max-width: 350px;
   max-height: auto;
 }

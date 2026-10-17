@@ -1,10 +1,7 @@
 /* Add styling here */
 body {
-  font-family: system-ui, sans-serif;
-  padding: 24px;
   background: #F7F5F0;
   width: 100%;
-  overflox-x: hidden;
 }
 .wrapper {
   max-width: 960px;
